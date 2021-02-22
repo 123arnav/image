@@ -1,0 +1,32 @@
+#heading{
+width:100%;
+background-color: white;
+color: red;
+font-family: Georgia, 'Times New Roman', Times, serif;
+margin-top: 0px;
+font-size: 40px;
+}
+#logo{
+    width: 100;
+}
+body{
+    background-color: pink;
+}
+#camera{
+    width: 300px;
+    height: 300px;
+    border: 2px solid white;
+}
+#capturediv label{
+background-color: white;
+width: 300px;
+padding: 20px;
+margin: 0px;
+box-shadow: 10px 3px 10px lightblue;
+}
+#capturediv{
+    border: 2px solid white;
+    font-family: 'EB Garamond', serif;
+    font-size: 20px;
+    color: lightblue;
+}
